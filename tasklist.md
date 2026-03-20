@@ -4,4 +4,4 @@ My To-Do List
 3. Update software tools and IDEs(e.g.,VS Code, Git) on devices
 4. Complete introductory readings
 5. Form or join study groups
-6. Schedule weekly coding practices
+6. Schedule weekly coding practices .
